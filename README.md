@@ -23,7 +23,7 @@ You can find hardcoded Api-Key,Secret,Token Etc..
 
 #### if you found api-key,secret,token you can check here
 
-  - keyhacks @streaak(https://github.com/streaak/keyhacks)
+  - keyhacks - @streaak (https://github.com/streaak/keyhacks)
 
 
 
