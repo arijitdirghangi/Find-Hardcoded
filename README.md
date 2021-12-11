@@ -21,6 +21,14 @@ You can find hardcoded Api-Key,Secret,Token Etc..
 </h1>
 
 
+!Note!
+````
+Some regex can give you huge output like (GitHub,MD5_Hash,Javascript_Variables,Base64,ipv6,LinkFinder,IP_Address)
+if you don't want you can comment those line.
+
+````
+
+
 ##### Prerequisites
 - apktool {apt install apktool} @iBotPeaches(https://github.com/iBotPeaches/Apktool)
 
