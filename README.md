@@ -21,6 +21,12 @@ You can find hardcoded Api-Key,Secret,Token Etc..
 </h1>
 
 
+#### if you found api-key,secret,token you can check here
+
+  - keyhacks @streaak(https://github.com/streaak/keyhacks)
+
+
+
 !Note!
 ````
 Some regex can give you huge output like (GitHub,MD5_Hash,Javascript_Variables,Base64,ipv6,LinkFinder,IP_Address)
