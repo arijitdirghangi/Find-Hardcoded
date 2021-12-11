@@ -10,8 +10,10 @@ You can find hardcoded Api-Key,Secret,Token Etc..
 
 
 ## Usage
+```
 ┌──(root💀Hacker)-[~/mobile_pentesting]
 └─# bash find-hardcoded.sh InsecureShop.apk
+```
 
 ##### Prerequisites
 - apktool {apt install apktool} @iBotPeaches(https://github.com/iBotPeaches/Apktool)
