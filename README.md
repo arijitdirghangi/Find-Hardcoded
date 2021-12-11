@@ -15,5 +15,19 @@ You can find hardcoded Api-Key,Secret,Token Etc..
 └─# bash find-hardcoded.sh InsecureShop.apk
 ```
 
+
+
 ##### Prerequisites
 - apktool {apt install apktool} @iBotPeaches(https://github.com/iBotPeaches/Apktool)
+
+
+#### regex credit
+```
+https://github.com/dwisiswant0/apkleaks/blob/master/config/regexes.json
+https://github.com/stevemcilwain/quiver/blob/master/payloads/secrets-content.json
+https://github.com/hahwul/dalfox/blob/main/pkg/scanning/grep.go
+https://github.com/BitTheByte/Eagle/blob/master/plugins/spider.py
+https://github.com/firmianay/Vehicle-Security-Toolkit/blob/main/apk-leaks.py
+https://github.com/dwisiswant0/apkleaks/blob/master/config/regexes.json
+https://github.com/stevemcilwain/quiver/blob/master/payloads/secrets-content.json
+```
