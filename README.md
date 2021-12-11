@@ -15,6 +15,10 @@ You can find hardcoded Api-Key,Secret,Token Etc..
 └─# bash find-hardcoded.sh InsecureShop.apk
 ```
 
+<h1 align="left">
+  <img src="img/carbon.png" alt="OutPut" width="600px"></a>
+  <br>
+</h1>
 
 
 ##### Prerequisites
