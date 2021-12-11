@@ -5,18 +5,6 @@ green="\e[32m"
 end="\e[0m"
 
 
-
-# echo -e "\033[1;37mWHITE"
-# echo -e "\033[0;30mBLACK"
-# echo -e "\033[0;34mBLUE"
-# echo -e "\033[0;32mGREEN"
-# echo -e "\033[0;36mCYAN"
-# echo -e "\033[0;31mRED"
-# echo -e "\033[0;35mPURPLE"
-# echo -e "\033[0;33mYELLOW"
-# echo -e "\033[1;30mGRAY"
-
-
 #You can manually check this thing
 #Authorization_Basic=$(grep -iRnE "basic [a-zA-Z0-9_\\-:\\.=]+")  or gf tool
 #HTTPS_Protocol=$(grep -inRE "https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&\/\/=]*)")
