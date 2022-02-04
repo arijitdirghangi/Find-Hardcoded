@@ -1,5 +1,13 @@
 #!/bin/bash
 
+apkfile=$1
+
+if [ -z $apkfile ]; then
+	echo "usage: ./find-hardcoded.sh filename.apk"
+	exit 0
+fi
+
+
 red="\e[31m"
 green="\e[32m"
 end="\e[0m"
